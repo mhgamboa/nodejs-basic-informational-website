@@ -2,7 +2,7 @@
 
 Project given by The Odin Project to practice NodeJS. Link to project found [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/basic-informational-site).
 
-Project Requirements:
+## Project Requirements:
 
 1. Make a project directory and create the following files inside that directory:
    - index.html
